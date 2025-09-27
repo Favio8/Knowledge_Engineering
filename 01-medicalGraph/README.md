@@ -229,7 +229,3 @@ RETURN d.name, d.desc, collect(dept.name), collect(drug.name), collect(check.nam
 本项目采用开源许可证，详情请查看项目中的许可证文件。
 
 ---
-
-**作者**: lhy  
-**邮箱**: lhy_in_blcu@126.com  
-**项目主页**: https://huangyong.github.io
